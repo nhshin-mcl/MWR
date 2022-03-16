@@ -18,3 +18,15 @@ Datasets
 * [UTK](https://susanqq.github.io/UTKFace/)
 * FGNet
 
+Dependencies
+-----------------------------------------------------------------------------
+* Python 3
+* Pytorch
+
+Preprocessing
+-----------------------------------------------------------------------------
+We use [MTCNN](https://github.com/ipazc/mtcnn) for face detection and face alignment code provided from [pyimagesearch](https://pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/) for face alignment.
+
+Test
+-----------------------------------------------------------------------------
+You can download trained models here. Use the following command for evaluation.
