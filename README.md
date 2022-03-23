@@ -1,5 +1,6 @@
 [CVPR 2022] Moving Window Regression: A Novel Approach to Ordinal Regression
 =============================================================================
+Official Pytorch Implementation of the CVPR 2022 paper, "Moving Window Regression: A Novel Approach to Ordinal Regression."
 
 Paper
 -----------------------------------------------------------------------------
