@@ -16,7 +16,6 @@ Datasets
 * [CLAP2015](https://chalearnlap.cvc.uab.cat/dataset/18/description/)
 * [CACD](https://bcsiriuschen.github.io/CARC/)
 * [UTK](https://susanqq.github.io/UTKFace/)
-* FGNet
 
 Dependencies
 -----------------------------------------------------------------------------
