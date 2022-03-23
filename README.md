@@ -27,9 +27,14 @@ Preprocessing
 -----------------------------------------------------------------------------
 We use [MTCNN](https://github.com/ipazc/mtcnn) for face detection and face alignment code provided from [pyimagesearch](https://pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/) for face alignment.
 
+Pretrained Models and Reference Lists
+-----------------------------------------------------------------------------
+You can download pretrained models and reference lists here.
+
 Test
 -----------------------------------------------------------------------------
-You can download trained models here. Use the following command for evaluation.
+Use the following command for evaluation.
 ```c
-aaaaaa
+python op.py --dataset Dataset --regression Regression_type --experiment_setting Experimental_setting --im_path Image_path
 ```
+
