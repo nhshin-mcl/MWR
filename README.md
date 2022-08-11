@@ -7,7 +7,7 @@ Paper
 <!--[Moving Window Regression: A Novel Approach to Ordinal Regression]()-->
 A novel ordinal regression algorithm, called moving window regression (MWR), is proposed in this paper. First, we propose the notion of relative rank (ρ-rank), which is a new order representation scheme for input and reference instances. Second, we develop global and local relative regressors (ρ-regressors) to predict ρ-ranks within entire and specific rank ranges, respectively. Third, we refine an initial rank estimate iteratively by selecting two reference instances to form a search window and then estimating the ρ-rank within the window. 
 
-The full paper can be found via the [link](https://arxiv.org/abs/2203.13122#:~:text=Moving%20Window%20Regression%3A%20A%20Novel%20Approach%20to%20Ordinal%20Regression,-Nyeong%2DHo%20Shin&text=A%20novel%20ordinal%20regression%20algorithm,for%20input%20and%20reference%20instances.) above.
+The full paper can be found via the [link](https://arxiv.org/abs/2203.13122) above.
 
 <!--Please cite our paper if you use our code or dataset:-->
 
