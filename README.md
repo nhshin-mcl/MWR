@@ -55,4 +55,7 @@ Cite
   year={2022}
 }
 ```
+License
+-----------------------------------------------------------------------------
+See [MIT License](https://github.com/nhshin-mcl/MWR/blob/main/LICENSE)
 
