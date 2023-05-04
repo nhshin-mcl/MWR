@@ -55,6 +55,15 @@ Cite
   year={2022}
 }
 ```
+
+Other Order Learning Algorithms
+-----------------------------------------------------------------------------
+* Order learning [paper](https://openreview.net/pdf?id=HygsuaNFwr) [code](https://github.com/changsukim-ku/order-learning)
+* DRC-ORID [paper](https://openreview.net/pdf?id=Yz-XtK5RBxB) [code](https://github.com/seon92/DRC-ORID)
+* Chainization [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730199.pdf) [code](https://github.com/seon92/Chainization)
+* GOL [paper](https://openreview.net/pdf?id=agNTJU1QNw) code
+
+
 License
 -----------------------------------------------------------------------------
 See [MIT License](https://github.com/nhshin-mcl/MWR/blob/main/LICENSE)
