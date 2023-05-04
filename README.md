@@ -29,12 +29,19 @@ We use [MTCNN](https://github.com/ipazc/mtcnn) for face detection and face align
 
 Pretrained Models and Reference Lists
 -----------------------------------------------------------------------------
-You can download pretrained models and reference lists [here](https://drive.google.com/drive/folders/1voOLN-_V6zzZTOmb8zKkT_2zBPjpliRm?usp=sharing).
+You can download models, IMDB-WIKI pretrained model, and reference lists [here](https://drive.google.com/drive/folders/1voOLN-_V6zzZTOmb8zKkT_2zBPjpliRm?usp=sharing).
+
+Train
+-----------------------------------------------------------------------------
+To train MWR, run the script in train_code folder. 
+```c
+python train_code/train.py
+```
 
 Test
 -----------------------------------------------------------------------------
 Use the following command for evaluation.
 ```c
-python op.py --dataset Dataset --regression Regression_type --experiment_setting Experimental_setting --im_path Image_path
+python test_code/op.py --dataset Dataset --regression Regression_type --experiment_setting Experimental_setting --im_path Image_path
 ```
 
