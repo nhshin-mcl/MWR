@@ -45,3 +45,14 @@ Use the following command for evaluation.
 python test_code/op.py --dataset Dataset --regression Regression_type --experiment_setting Experimental_setting --im_path Image_path
 ```
 
+Cite
+-----------------------------------------------------------------------------
+```c
+@inproceedings{shin2022moving,
+  title={Moving window regression: {a} novel approach to ordinal regression},
+  author={Shin, Nyeong-Ho and Lee, Seon-Ho and Kim, Chang-Su},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  year={2022}
+}
+```
+
